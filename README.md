@@ -7,3 +7,5 @@ Un dia como este no podía empezar de otra manera... tras semanas trabajando en t
 2
 1
 BOOOOOOOOOM!!!!
+
+Hacemos commit and push para salvar nuestro trabajo
